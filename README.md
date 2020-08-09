@@ -1,5 +1,5 @@
 # Decoding stimulus orientation in dLGN recordings
-This notebook are used to analyze data presented in Figure 10 of the following paper: 
+This notebook are used to analyze data presented in Figure 9 of the following paper: 
 
 http://XXX
 
